@@ -1,0 +1,4 @@
+_puycache_/
+*._puycache_
+.venv/
+.env
